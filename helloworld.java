@@ -8,6 +8,8 @@ class HelloWorld
 	{
 		System.out.println("Hello, World");
                 System.out.println("Hello,Branch first-branch");
+        // prints welcome msg
+                System.out.println("welcome to git");
 	}
 }
 
